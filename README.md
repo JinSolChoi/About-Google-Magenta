@@ -6,6 +6,10 @@ https://magenta.tensorflow.org/
 - Magenta Github
 https://github.com/tensorflow/magenta
 
+- WaveNet
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
+
 Hello_magenta
 https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb#scrollTo=QhtRBNNf05CA
 
